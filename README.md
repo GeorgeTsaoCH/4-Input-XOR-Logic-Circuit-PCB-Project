@@ -63,7 +63,7 @@ This project provided practical experience in:
 ![Final board test 3](./final-board-3.jpg)
 
 ## Report
-Full project report: [XOR-Project-Report.docx](./XOR-Project-Report.docx)
+Full project report: [PDF](./XOR-Project-Report.pdf) | [DOCX](./XOR-Project-Report.docx)
 
 ## Resume Version
 For resume use, this project can be summarized as:
